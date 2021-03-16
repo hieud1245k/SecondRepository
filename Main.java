@@ -4,5 +4,6 @@ class Main {
         System.out.println("Hieu");
         System.out.println("abc");
         System.out.println("abc");
-        System.out.println("abc");
+        System.out.println("abc123");
+        System.out.println("abc12345");
 }
