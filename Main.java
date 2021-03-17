@@ -8,5 +8,6 @@ class Main {
         System.out.println("abc12345");
         System.out.println("ab34324c");
         System.out.println("abc45545");
+        123
     }
 }
